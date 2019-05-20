@@ -1,0 +1,51 @@
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #EB96B2;
+}
+.navbar-brand{
+	padding: 10px 5px 10px 5px;
+}
+.navbar-brand-image{
+	width: 50px;
+	height: 30px;
+}
+.col-md-1{
+	width: 12.499999995%
+}
+.p1{
+	font-size:24px;
+	text-align: center;
+}
+.p2{
+	font-size:14px;
+	text-align: center;
+	padding: 10px 5px 10px 5px;
+}
+
+.banner{
+	display: block;
+    margin: auto;
+	max-width:60%
+}
+.getstarted {
+	display: block;
+    margin: auto;
+	max-width:60%
+}
+.table{
+	width:60%;
+	margin: 0 auto;
+}
+.button-cond{
+	display:none;
+}
+}
+.btn-primary {
+    color: #fff;
+    background-color: #990033 !important;
+    border-color: #666666; /*set the color you want here*/
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #990033;
+    border-color: #666666; /*set the color you want here*/
+}
